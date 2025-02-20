@@ -8,7 +8,7 @@ import pandas as pd
 from 아파트정보 import df_deachi_location
 from 매매가전월세통합 import process_real_estate_data
 
-service_key = "sgOQlwpackhO01oaCAAcwfJy4IGwN%2F2uLcXifUcmx%2FIwLRwPkaBTgz9kBtg5oQg8YRxPZICHxtKF%2BsXKn4rf%2Fw%3D%3D"
+service_key = "sgOr3D"
 gu_code = 11680
 n = 10000
 months = 12
