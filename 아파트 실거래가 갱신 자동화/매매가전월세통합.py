@@ -89,7 +89,7 @@ def process_real_estate_data(service_key, gu_code, n=10000, months=3, filter_reg
 
     return df_combined_deachi
 
-service_key = "sgOQlwpackhO01oaCAAcwfJy4IGwN%2F2uLcXifUcmx%2FIwLRwPkaBTgz9kBtg5oQg8YRxPZICHxtKF%2BsXKn4rf%2Fw%3D%3D"
+service_key = "3D"
 gu_code = 11680
 n = 10000
 months = 3
