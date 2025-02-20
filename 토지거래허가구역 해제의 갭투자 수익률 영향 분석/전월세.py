@@ -68,7 +68,7 @@ def fetch_apt_rent_data(service_key, gu_code, date, n):
     return df
 
 # Example usage
-service_key = "sgOQlwpackhO01oaCAAcwfJy4IGwN%2F2uLcXifUcmx%2FIwLRwPkaBTgz9kBtg5oQg8YRxPZICHxtKF%2BsXKn4rf%2Fw%3D%3D"
+service_key = "sgOQlD%3D"
 gu_code = 11680
 date = 202501
 n = 10000
