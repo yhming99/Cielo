@@ -18,7 +18,7 @@ df_region_codes['dong'] = df_region_codes['분리된법정동명'].str[2]
 df_region_codes_seoul = df_region_codes[df_region_codes['법정동명'].str.contains('서울특별시')]
 seoul_gu_list = df_region_codes_seoul['gu'].dropna().unique()
 
-service_key = "sgOQlwpackhO01oaCAAcwfJy4IGwN%2F2uLcXifUcmx%2FIwLRwPkaBTgz9kBtg5oQg8YRxPZICHxtKF%2BsXKn4rf%2Fw%3D%3D"
+service_key = "sg3D"
 months = 12
 end_date = datetime.now()
 dates = [(end_date - relativedelta(months=i)).strftime('%Y%m') for i in range(months)]
