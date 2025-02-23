@@ -7,7 +7,6 @@
 6. 파이널 데이터 독립변수 종속변수
 7. 선형회귀분석
 
-/code
 !pip install pyspark
 import pyspark
 
